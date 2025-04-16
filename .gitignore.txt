@@ -1,0 +1,13 @@
+## .gitignore para .NET Framework
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+*.vs/
+packages/
+TestResults/
