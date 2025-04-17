@@ -1,7 +1,0 @@
-C:\Users\bprim\source\repos\Gestar de Estoque Orientado à obj\Gestar de Estoque Orientado à obj\bin\Debug\Gestar de Estoque Orientado à obj.exe.config
-C:\Users\bprim\source\repos\Gestar de Estoque Orientado à obj\Gestar de Estoque Orientado à obj\bin\Debug\Gestar de Estoque Orientado à obj.exe
-C:\Users\bprim\source\repos\Gestar de Estoque Orientado à obj\Gestar de Estoque Orientado à obj\bin\Debug\Gestar de Estoque Orientado à obj.pdb
-C:\Users\bprim\source\repos\Gestar de Estoque Orientado à obj\Gestar de Estoque Orientado à obj\obj\Debug\Gestar de Estoque Orientado à obj.csproj.AssemblyReference.cache
-C:\Users\bprim\source\repos\Gestar de Estoque Orientado à obj\Gestar de Estoque Orientado à obj\obj\Debug\Gestar de Estoque Orientado à obj.csproj.CoreCompileInputs.cache
-C:\Users\bprim\source\repos\Gestar de Estoque Orientado à obj\Gestar de Estoque Orientado à obj\obj\Debug\Gestar de Estoque Orientado à obj.exe
-C:\Users\bprim\source\repos\Gestar de Estoque Orientado à obj\Gestar de Estoque Orientado à obj\obj\Debug\Gestar de Estoque Orientado à obj.pdb
